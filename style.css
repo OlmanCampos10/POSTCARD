@@ -1,0 +1,134 @@
+.body{
+ background-color:grey;
+}
+
+.container-0{
+  height: 280px;
+  width: 500px;
+  border-radius: 10px;
+  border-color: black;
+  margin: 200px auto;
+  border-style: solid;
+}
+
+.container-1{
+  height: 110px;
+  width: auto;
+}
+
+.container-2{
+  margin: 5px 5px;
+  height: 100px;
+  width: 320px;
+  float: left;
+  font-family: 'Handlee', cursive;
+  font-weight: bolder;
+} 
+
+.container-2 > h1{
+
+    font-weight: bolder;
+    padding-left: 25px;
+    padding-top: 20px;
+
+}
+
+.container-3{
+  margin: 5px 5px;
+  height: 100px;
+  width: 160px;
+  float: right;
+  text-align: right;
+}
+
+.container-4{
+  height:200px;
+  width: 500px;
+  margin:5px auto;
+  font-family: 'Handlee', cursive;  
+}
+
+.container-5{
+  height: 190px;
+  width: 260px; 
+  margin: auto 10px;
+  float: left;
+  font-weight: bold;
+}
+
+
+.container-6{
+  height: 190px;
+  width: 200px;
+  float: right;
+  margin: auto 10px;
+}
+
+.container-7{
+  height: 70px;
+  width: 500px;
+  margin: 5px auto;
+  float: right;
+  text-align: center;
+
+  
+}
+
+.btn{
+    background-color: #e6e6e6;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Handlee', cursive;
+    padding: auto 30px;
+    border: none;
+    font-weight: bolder;
+    box-shadow: 0 2px #666;
+    cursor: pointer;
+    height: 30px;
+}
+
+#sName{
+    
+    border: none;
+    font-size: 15px;
+    font-family: 'Handlee', cursive;
+    margin: 2px;
+    height: 30px;
+    width: 190px;
+    background-color: transparent;
+    color: gray;
+    outline: none;
+    border-bottom: solid;
+   
+    
+}
+
+#sEmail{
+    
+    border: none;
+    font-size: 15px;
+    font-family: 'Handlee', cursive;
+    margin: 2px;
+    height: 30px;
+    width: 190px;
+    background-color: transparent;
+    color: gray;
+    outline: none;
+    border-bottom: solid;
+}
+
+
+
+#sComment{
+   
+    border: none;
+    font-size: 15px;
+    font-family: 'Handlee', cursive;
+    margin: 2px;
+    height: 30px;
+    width: 190px;
+    background-color: transparent;
+    color: gray;
+    outline: none;
+    border-bottom: solid;
+}
